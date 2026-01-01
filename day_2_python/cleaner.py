@@ -37,3 +37,4 @@ for filename in files:
         print(f"❌ Пропущен (не картинка): {filename}")
 
 print("Готово! Датасет чист.")
+print('Красавчик!')
